@@ -6,6 +6,8 @@ This is a user-friendly music player application that provides basic and essenti
 
 This project was created as part of the FreeCodeCamp Bootcamp.
 
+![HTML](https://img.shields.io/badge/--E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/--1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=black)
+
 ## Features
 
 - **Play**: Start playing the selected song.
@@ -14,12 +16,6 @@ This project was created as part of the FreeCodeCamp Bootcamp.
 - **Select Song with Mouse**: Browse and select songs directly by clicking on them.
 - **Next Song**: Skip to the next song in the playlist.
 - **Previous Song**: Return to the previous song in the playlist.
-
-## Technologies Used
-
-- !(https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) HTML5: For structuring the web application.
-- !(https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) CSS3: For styling and designing the user interface.
-- !(https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) JavaScript: For adding interactivity and functionality.
 
 ## Installation
 
@@ -46,5 +42,5 @@ This project was created as part of the FreeCodeCamp Bootcamp.
 
 ## Contact
 
-For any questions or suggestions, please reach out to [[yourname@example.com](mailto\:serguz95444@gmail.com)].
+For any questions or suggestions, please reach out to [[yourname@example.com](mailto\:yourname@example.com)].
 
